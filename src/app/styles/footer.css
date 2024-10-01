@@ -62,7 +62,6 @@
 .logo-footer {
     transition: transform 0.3s ease, filter 300ms
 
-
 }
 .logo-footer:hover {
     transform: scale(1.1);
